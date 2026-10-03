@@ -1,7 +1,6 @@
 # 🧠 Итоговый проект по модулю  
 
 Проект посвящён построению хранилища данных по методологии **Data Vault** на основе датасета **[superstore](https://www.kaggle.com/datasets/roopacalistus/superstore)**.  
-Работа выполнена под пользователем **`student46`** в среде **Yandex Cloud / Greenplum**.
 
 ---
 
