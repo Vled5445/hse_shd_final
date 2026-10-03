@@ -1,5 +1,4 @@
-# 🧠 Итоговый проект по модулю 5  
-## Схема `student46`
+# 🧠 Итоговый проект по модулю  
 
 Проект посвящён построению хранилища данных по методологии **Data Vault** на основе датасета **[superstore](https://www.kaggle.com/datasets/roopacalistus/superstore)**.  
 Работа выполнена под пользователем **`student46`** в среде **Yandex Cloud / Greenplum**.
@@ -56,5 +55,3 @@ SQL-скрипт **`create_storage.sql`** создаёт структуру та
    ```python
    python data_import.py
    ```
-
-После выполнения всех шагов таблицы схемы `student46` будут наполнены данными.
